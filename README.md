@@ -1,3 +1,3 @@
 # pyhttps
 
-A little python for running a python https server.
+A little python script for running a python server with https.
